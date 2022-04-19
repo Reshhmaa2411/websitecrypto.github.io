@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title>ISM</title>
+<body bgcolor="cyan"> 
+<h1><center>INFORMATION SECURITY MANAGEMENT</center></h1>
+<marquee height = "70%">WINTER SEMESTER 2022</marquee>
+<h2>TEAM MEMBERS</h2>
+<ul type = "square">
+         <li>18MIS0084 - Reshhmaa B</li>
+         <li>18MIS0088 - Poorvajaa K G</li>
+         <li>18MIS0099 - Sushmita V</li>
+         <li>18MIS0272 - Karuna Jyothi M</li>
+         <li>18MIS0288 - Sharu Mathi V</li>
+      </ul>
+<center><img src = "ISM1.jpg" alt ="Image" width = "750" height = "750"/></center>
+</body>
+</html>
